@@ -3,7 +3,7 @@
 ## **This is just a simple to do APP**
 ###### no big deal
 
-#main.dart
+# main.dart
 
 ```
 
@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
 
 ```
 
-#todo_list_item.dart
+# todo_list_item.dart
 
 ```
 import 'package:flutter/material.dart';
@@ -93,7 +93,7 @@ class TodoListItem extends StatelessWidget {
 
 ```
 
-#todo_list_page.dart
+# todo_list_page.dart
 
 ```
 
@@ -307,7 +307,7 @@ class _TodoListPageState extends State<TodoListPage> {
 
 ```
 
-#pubspec.yaml
+# pubspec.yaml
 
 ```
 
