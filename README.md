@@ -3,17 +3,16 @@
 
 # app images
 ## icon
-![WhatsApp Image 2022-03-13 at 15 24 23](https://user-images.githubusercontent.com/89677437/158074711-6cade513-24a6-46b6-a176-bea7ba8da659.jpeg)
+<img src="https://user-images.githubusercontent.com/89677437/158074711-6cade513-24a6-46b6-a176-bea7ba8da659.jpeg" width=25% height=25%>
 ## pages
-![WhatsApp Image 2022-03-13 at 15 24 25 (3)](https://user-images.githubusercontent.com/89677437/158074718-eeb9eafe-9537-4510-966e-da910c689bc9.jpeg)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/89677437/158074718-eeb9eafe-9537-4510-966e-da910c689bc9.jpeg" width=30% height=30%>
+  
+  <img src="https://user-images.githubusercontent.com/89677437/158074728-1d6d84b5-3322-4a59-af1d-b8fc5f0b3a01.jpeg" width=30% height=30%>
 
-![WhatsApp Image 2022-03-13 at 15 24 25 (2)](https://user-images.githubusercontent.com/89677437/158074728-1d6d84b5-3322-4a59-af1d-b8fc5f0b3a01.jpeg)
-
-![WhatsApp Image 2022-03-13 at 15 24 25 (1)](https://user-images.githubusercontent.com/89677437/158074733-25d6cdad-fe5d-4509-bc3e-b0372a0c8fd4.jpeg)
-
-![WhatsApp Image 2022-03-13 at 15 24 24 (1)](https://user-images.githubusercontent.com/89677437/158074737-226ae362-10db-40de-8904-6d7b4fc3f6bb.jpeg)
-
-![WhatsApp Image 2022-03-13 at 15 24 24](https://user-images.githubusercontent.com/89677437/158074747-f1a8448d-cc16-4238-a352-ed17a41d12a8.jpeg)
+  <img src="https://user-images.githubusercontent.com/89677437/158074747-f1a8448d-cc16-4238-a352-ed17a41d12a8.jpeg" width=30% height=30%>
+  
+ </p>
 
 
 
