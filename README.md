@@ -1,7 +1,21 @@
 # tarefapp 
+ **This is just a simple to do APP**, no big deal
 
-## **This is just a simple to do APP**
-###### no big deal
+# app images
+## icon
+![WhatsApp Image 2022-03-13 at 15 24 23](https://user-images.githubusercontent.com/89677437/158074711-6cade513-24a6-46b6-a176-bea7ba8da659.jpeg)
+## pages
+![WhatsApp Image 2022-03-13 at 15 24 25 (3)](https://user-images.githubusercontent.com/89677437/158074718-eeb9eafe-9537-4510-966e-da910c689bc9.jpeg)
+
+![WhatsApp Image 2022-03-13 at 15 24 25 (2)](https://user-images.githubusercontent.com/89677437/158074728-1d6d84b5-3322-4a59-af1d-b8fc5f0b3a01.jpeg)
+
+![WhatsApp Image 2022-03-13 at 15 24 25 (1)](https://user-images.githubusercontent.com/89677437/158074733-25d6cdad-fe5d-4509-bc3e-b0372a0c8fd4.jpeg)
+
+![WhatsApp Image 2022-03-13 at 15 24 24 (1)](https://user-images.githubusercontent.com/89677437/158074737-226ae362-10db-40de-8904-6d7b4fc3f6bb.jpeg)
+
+![WhatsApp Image 2022-03-13 at 15 24 24](https://user-images.githubusercontent.com/89677437/158074747-f1a8448d-cc16-4238-a352-ed17a41d12a8.jpeg)
+
+
 
 # main.dart
 
@@ -326,7 +340,8 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # In Android, build-name is used as versionName while build-number used as versionCode.
 # Read more about Android versioning at https://developer.android.com/studio/publish/versioning
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
-# Read more about iOS versioning at
+# Read more about iOS versioning at![WhatsApp Image 2022-03-13 at 15 24 23](https://user-images.githubusercontent.com/89677437/158073789-51cc570a-8a7a-4298-b50c-d69320292c81.jpeg)
+
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 version: 1.0.0+1
 
